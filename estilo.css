@@ -1,0 +1,72 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-image: url(img/bg.jpg);
+    background-position: center center;
+    background-size: cover;
+    padding: 300px 5%;
+}
+
+h1 {
+    font-size: 100px;
+    margin-bottom: 40px;
+}
+
+#slogan {
+    font-size: 18px;
+    margin-bottom: 100px;
+}
+
+#button {
+    background: #c9992d;
+    color: #fff;
+    text-decoration: none;
+    padding: 20px 40px;
+    border-radius: 4px;
+    border: 1px solid #7c5e1b;
+}
+
+#button:hover {
+    background: #fff;
+    border: 1px solid #c9992d;
+    color: #c9992d;
+}
+
+
+#video {
+    padding: 5%;
+}
+
+iframe {
+    margin-bottom: 40px;
+}
+
+h2 {
+    text-align: center;
+}
+
+#video p {
+    text-align: center;
+}
+
+.etapas-img {
+    width: 60px;
+    height: 60px;
+    margin-bottom: 20px;
+}
+
+#desenvolvimento {
+    padding: 5%;
+}
+
+.etapas {
+    margin-bottom: 50px;
+}
+
+.sub-titulo {
+    text-align: center;
+}
